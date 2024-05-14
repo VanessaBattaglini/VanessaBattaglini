@@ -14,8 +14,16 @@
  💡 Tengo experiencia en el análisis y manipulación de base de datos, así como también, en comunicación efectiva y manejo de grupos en el área de RRHH 
 
 ### Cómo y a través de qué medios te pueden contactar?
- ⭐️ Email:  battaglinismilling@gmail.com
- ⭐️ Teléfono: +56 935745993
- ⭐️ LinkedIn: linkedin.com/in/smilling-vanessa-battaglini-larez-6a7b97235
 
-
+<table>
+  <tr>
+    <td>⭐️ Email</td>
+    <td>⭐️ Teléfono</td>
+    <td>⭐️ LinkedIn</td>
+  </tr>
+  <tr>
+    <td> battaglinismilling@gmail.com</td>
+    <td>+56 935745993</td>
+    <td>linkedin.com/in/smilling-vanessa-battaglini-larez-6a7b97235</td>
+  </tr>
+</table>
