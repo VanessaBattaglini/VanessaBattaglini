@@ -1,5 +1,5 @@
 ### Quién eres?
- `(\u2705`Smilling Vanessa Battaglini Larez 
+ `\u2705 Smilling Vanessa Battaglini Larez `
 
 ### De dónde eres?
 {{ Soy de Venezuela pero vivo en Chile }}
